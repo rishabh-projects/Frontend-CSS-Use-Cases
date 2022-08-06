@@ -32,10 +32,10 @@
 ### Bringing in Functionality Using Bootstrap Components.
 ### Creating a Bootstrap-enabled Form. Creating a Responsive Layout with Bootstrap Grid.
 ### Creating Interactivity with JavaScript Based Bootstrap Message, Collapse, Carousel, and ScrollSpy Components.
-### ### Adding Styling with Bootstrap Typography and Utilities.
+### Adding Styling with Bootstrap Typography and Utilities.
 ### Building Responsive Patterns Using Bootstrap, Responsive Navigation, Images and Video, Scrolling Features, Animated Page Elements
 ### Implement ng-bootsrap Forms, Structural, Informational, Navigation Components
-### ### Creating Flexbox Layouts, Adjusting Alignment, Margins, and Display Order, Adding in Other Bootstrap Layout Utilities.
+### Creating Flexbox Layouts, Adjusting Alignment, Margins, and Display Order, Adding in Other Bootstrap Layout Utilities.
 ### Work on Bootstrap 4, Bootstrap 5.
 ### Creating Responsive Web Design with Media Queries & CSS Preprocessing, Responsive Images and Sliders, Columns, Flexbox, and Grids, Navigation, Typography, Web-forms.
 ### Meeting Web Accessibility Guidelines (Section 508/ WCAG 2.1)
